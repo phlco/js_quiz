@@ -19,7 +19,7 @@ quiz.sleepIn = function(options) {
 // If the number is between 90 and 99, the result is true;
 // If it is 89 or below, it is false.
 // quiz.nearHundred(52) => false
-// quiz.nearHundred(93) => false
+// quiz.nearHundred(93) => true
 // quiz.nearHundred('two') => Error: Please enter a number!
 
 // Question 3: a function called missingChar
